@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.6",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MogasbeKelani/qrcode-csv.git"
+  },
+  "author": "mohammed mogasbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MogasbeKelani/qrcode-csv/issues"
+  },
+  "homepage": "https://github.com/MogasbeKelani/qrcode-csv#readme"
+}
